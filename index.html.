@@ -1,0 +1,23 @@
+
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#111318">
+  <meta name="description" content="Descubra imóveis exclusivos em Luanda com a NEXUS ESTATES.">
+  <title>NEXUS ESTATES | Imobiliária de Luanda</title>
+  <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+  <main class="container">
+    <h1>NEXUS ESTATES</h1>
+    <p>O futuro imobiliário de Luanda.</p>
+    <a class="botao" href="#imoveis">Explorar imóveis</a>
+    <section id="imoveis">
+      <h2>O seu próximo espaço começa aqui.</h2>
+      <p>Em breve, uma nova forma de descobrir imóveis em Luanda.</p>
+    </section>
+  </main>
+</body>
+</html>
